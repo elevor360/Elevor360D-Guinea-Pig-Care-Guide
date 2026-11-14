@@ -1,0 +1,552 @@
+[
+  {
+    "id": 1,
+    "title": "Preparing a spacious enclosure",
+    "category": "Housing",
+    "frequency": "As needed",
+    "steps": [
+      "Choose a large single-level enclosure with ample floor space for running and exploring.",
+      "Add hideaways, hay stations, water and comfortable dry bedding."
+    ],
+    "caution": "Small pet-shop cages are often too small for permanent housing."
+  },
+  {
+    "id": 2,
+    "title": "Why guinea pigs need companions",
+    "category": "Social Needs",
+    "frequency": "Daily",
+    "steps": [
+      "Plan to keep guinea pigs with compatible guinea pig companions rather than alone.",
+      "Introduce new animals carefully in a neutral, spacious area with multiple hiding places."
+    ],
+    "caution": "Never house guinea pigs with rabbits; their needs and communication differ."
+  },
+  {
+    "id": 3,
+    "title": "Choosing compatible companions",
+    "category": "Social Needs",
+    "frequency": "As needed",
+    "steps": [
+      "Consider established pairs or groups with suitable sex and temperament combinations.",
+      "Provide several feeding areas and shelters with two exits to reduce guarding."
+    ],
+    "caution": "Check sexes carefully; mixed-sex groups can breed unless appropriately neutered."
+  },
+  {
+    "id": 4,
+    "title": "Settling in a new guinea pig",
+    "category": "Getting Started",
+    "frequency": "As needed",
+    "steps": [
+      "Set up the enclosure before arrival with hay, water and familiar food.",
+      "Give the guinea pig quiet time and let it approach you at its own pace."
+    ],
+    "caution": "Avoid forced handling during the settling-in period."
+  },
+  {
+    "id": 5,
+    "title": "Daily health observation",
+    "category": "Health Awareness",
+    "frequency": "Daily",
+    "steps": [
+      "Watch eating, drinking, droppings, movement and normal interactions each day.",
+      "Check eyes, nose, coat and posture for changes from the animal's usual behaviour."
+    ],
+    "caution": "A guinea pig that stops eating or passing droppings needs urgent veterinary advice."
+  },
+  {
+    "id": 6,
+    "title": "Unlimited grass hay",
+    "category": "Feeding",
+    "frequency": "Daily",
+    "steps": [
+      "Offer a constant supply of clean, good-quality grass hay such as timothy or meadow hay.",
+      "Replace damp or soiled hay and make it easy to reach from several spots."
+    ],
+    "caution": "Hay supports gut movement and tooth wear; do not substitute seed mixes."
+  },
+  {
+    "id": 7,
+    "title": "Vitamin C every day",
+    "category": "Feeding",
+    "frequency": "Daily",
+    "steps": [
+      "Provide fresh guinea-pig-appropriate vegetables rich in vitamin C and a suitable fortified pellet.",
+      "Refresh food daily and store pellets according to packaging guidance."
+    ],
+    "caution": "Guinea pigs cannot make their own vitamin C; ask a vet about supplementation if intake is uncertain."
+  },
+  {
+    "id": 8,
+    "title": "Choosing suitable pellets",
+    "category": "Feeding",
+    "frequency": "Daily",
+    "steps": [
+      "Use a plain, guinea-pig-specific fortified pellet in the amount recommended for your pets.",
+      "Check expiry dates and keep pellets dry in a sealed container."
+    ],
+    "caution": "Avoid colourful muesli mixes that encourage selective feeding."
+  },
+  {
+    "id": 9,
+    "title": "Introducing new vegetables",
+    "category": "Feeding",
+    "frequency": "As needed",
+    "steps": [
+      "Offer one new safe vegetable in a small amount alongside the usual diet.",
+      "Observe appetite and droppings before increasing the amount gradually."
+    ],
+    "caution": "Sudden diet changes may upset digestion."
+  },
+  {
+    "id": 10,
+    "title": "Safe leafy greens",
+    "category": "Feeding",
+    "frequency": "Daily",
+    "steps": [
+      "Offer a varied selection of guinea-pig-safe leafy greens washed and served fresh.",
+      "Rotate suitable greens and remove uneaten pieces before they spoil."
+    ],
+    "caution": "Some greens are high in calcium; ask your vet about diet if urinary problems occur."
+  },
+  {
+    "id": 11,
+    "title": "Bell peppers as vitamin C food",
+    "category": "Feeding",
+    "frequency": "Daily",
+    "steps": [
+      "Wash a fresh bell pepper and offer a suitable portion with seeds and stalk removed.",
+      "Combine with hay, suitable pellets and other safe greens."
+    ],
+    "caution": "Vegetables complement rather than replace hay."
+  },
+  {
+    "id": 12,
+    "title": "Fruit as an occasional treat",
+    "category": "Feeding",
+    "frequency": "As needed",
+    "steps": [
+      "Offer a tiny piece of suitable fruit only occasionally.",
+      "Remove uneaten fruit promptly to prevent spoilage and insects."
+    ],
+    "caution": "Fruit is sugary and should not form a routine large portion of the diet."
+  },
+  {
+    "id": 13,
+    "title": "Foods to avoid",
+    "category": "Feeding",
+    "frequency": "As needed",
+    "steps": [
+      "Keep chocolate, onion, garlic, avocado and human snack foods out of reach.",
+      "Check unfamiliar plants or foods with a reliable veterinary source before offering."
+    ],
+    "caution": "Contact a vet promptly if a potentially toxic item has been eaten."
+  },
+  {
+    "id": 14,
+    "title": "Fresh drinking water",
+    "category": "Feeding",
+    "frequency": "Daily",
+    "steps": [
+      "Provide clean drinking water in a stable bowl or a working bottle, depending on what your guinea pigs use reliably.",
+      "Wash containers and check water flow every day."
+    ],
+    "caution": "Seek veterinary advice if drinking changes markedly."
+  },
+  {
+    "id": 15,
+    "title": "Monitoring body weight",
+    "category": "Health Awareness",
+    "frequency": "Weekly",
+    "steps": [
+      "Weigh each guinea pig using a digital kitchen scale and a secure container.",
+      "Record the weight and compare it with previous measurements."
+    ],
+    "caution": "Unexplained weight loss can be an early illness sign even when the guinea pig looks normal."
+  },
+  {
+    "id": 16,
+    "title": "Understanding normal droppings",
+    "category": "Health Awareness",
+    "frequency": "Daily",
+    "steps": [
+      "Notice the usual number, shape and consistency of droppings during daily cleaning.",
+      "Keep a record if droppings become smaller, fewer or unusually soft."
+    ],
+    "caution": "No droppings or reduced eating is urgent; do not wait overnight."
+  },
+  {
+    "id": 17,
+    "title": "Recognising dental problems",
+    "category": "Health Awareness",
+    "frequency": "Daily",
+    "steps": [
+      "Watch for slow eating, dropping food, wet chin, weight loss or reluctance to chew hay.",
+      "Arrange prompt examination by a guinea-pig-experienced vet if signs appear."
+    ],
+    "caution": "Back teeth cannot be assessed properly at home; do not attempt trimming."
+  },
+  {
+    "id": 18,
+    "title": "Signs of respiratory illness",
+    "category": "Health Awareness",
+    "frequency": "Daily",
+    "steps": [
+      "Look for noisy breathing, nasal discharge, crusty eyes, lethargy or reduced appetite.",
+      "Keep the guinea pig calm and contact a vet promptly if symptoms appear."
+    ],
+    "caution": "Breathing difficulty is an emergency; avoid human cold medicines."
+  },
+  {
+    "id": 19,
+    "title": "Skin and fungal concerns",
+    "category": "Health Awareness",
+    "frequency": "As needed",
+    "steps": [
+      "Check for bald patches, scabs, itching and changes in the skin during routine handling.",
+      "Use clean bedding and seek veterinary identification of the cause."
+    ],
+    "caution": "Some fungal infections can spread to people; wash hands and avoid home remedies."
+  },
+  {
+    "id": 20,
+    "title": "Mites and lice awareness",
+    "category": "Health Awareness",
+    "frequency": "As needed",
+    "steps": [
+      "Watch for intense scratching, flaky skin, hair loss or discomfort.",
+      "Ask a vet to identify parasites and recommend species-safe treatment."
+    ],
+    "caution": "Never use dog or cat flea products without explicit veterinary instruction."
+  },
+  {
+    "id": 21,
+    "title": "Bumblefoot prevention",
+    "category": "Health Awareness",
+    "frequency": "Weekly",
+    "steps": [
+      "Provide dry, soft, solid flooring and inspect feet gently for redness or swelling.",
+      "Keep nails trimmed and maintain a healthy weight and clean enclosure."
+    ],
+    "caution": "Sores or limping require veterinary care."
+  },
+  {
+    "id": 22,
+    "title": "Urinary discomfort signs",
+    "category": "Health Awareness",
+    "frequency": "Daily",
+    "steps": [
+      "Notice squeaking during urination, straining, blood or wetness around the rear.",
+      "Record symptoms and arrange a veterinary examination promptly."
+    ],
+    "caution": "Straining or inability to pass urine is urgent."
+  },
+  {
+    "id": 23,
+    "title": "Heat stress prevention",
+    "category": "Seasonal Safety",
+    "frequency": "Seasonal",
+    "steps": [
+      "Place housing in a cool, ventilated area away from direct sun and hot windows.",
+      "Offer shade, cool drinking water and a wrapped cool pack with space to move away."
+    ],
+    "caution": "Panting, collapse or severe lethargy in heat is an emergency."
+  },
+  {
+    "id": 24,
+    "title": "Cold weather protection",
+    "category": "Seasonal Safety",
+    "frequency": "Seasonal",
+    "steps": [
+      "Keep guinea pigs in a dry, draught-free environment with suitable bedding and shelter.",
+      "Check temperatures and avoid sudden moves between extreme indoor and outdoor conditions."
+    ],
+    "caution": "Guinea pigs are sensitive to cold and damp conditions."
+  },
+  {
+    "id": 25,
+    "title": "Outdoor grazing safely",
+    "category": "Housing",
+    "frequency": "As needed",
+    "steps": [
+      "Use a secure covered run on untreated grass with shade, hiding places and water.",
+      "Supervise and check for poisonous plants, pesticides and predators."
+    ],
+    "caution": "Never leave guinea pigs exposed to direct sun or unsupervised outdoors."
+  },
+  {
+    "id": 26,
+    "title": "Predator-proof housing",
+    "category": "Housing",
+    "frequency": "Daily",
+    "steps": [
+      "Check mesh, doors, latches and the floor or base for weak points.",
+      "Ensure cats, dogs, foxes and birds of prey cannot reach the animals."
+    ],
+    "caution": "A nearby predator can frighten guinea pigs even without direct contact."
+  },
+  {
+    "id": 27,
+    "title": "Choosing safe bedding",
+    "category": "Housing",
+    "frequency": "As needed",
+    "steps": [
+      "Use absorbent, low-dust bedding or washable fleece with an appropriate absorbent layer.",
+      "Keep resting areas dry and change damp sections promptly."
+    ],
+    "caution": "Avoid strongly scented or dusty materials that may irritate breathing."
+  },
+  {
+    "id": 28,
+    "title": "Spot-cleaning the enclosure",
+    "category": "Housing",
+    "frequency": "Daily",
+    "steps": [
+      "Remove wet bedding, leftover vegetables and heavily soiled hay.",
+      "Top up fresh hay and check water and hiding areas."
+    ],
+    "caution": "Avoid leaving guinea pigs in a wet enclosure."
+  },
+  {
+    "id": 29,
+    "title": "Full enclosure cleaning",
+    "category": "Housing",
+    "frequency": "Weekly",
+    "steps": [
+      "Move guinea pigs to a secure temporary area with hay and water.",
+      "Clean and dry the enclosure using pet-safe products before replacing bedding."
+    ],
+    "caution": "Rinse away cleaner residue and never mix cleaning chemicals."
+  },
+  {
+    "id": 30,
+    "title": "Hiding places with exits",
+    "category": "Housing",
+    "frequency": "Daily",
+    "steps": [
+      "Provide at least one comfortable hide per guinea pig, plus an extra if space permits.",
+      "Choose shelters with more than one exit so no animal can be trapped."
+    ],
+    "caution": "Avoid sharp edges and overcrowded hideouts."
+  },
+  {
+    "id": 31,
+    "title": "Tunnels and enrichment",
+    "category": "Enrichment",
+    "frequency": "Daily",
+    "steps": [
+      "Offer safe cardboard tunnels, paper bags with handles removed and hay-filled activities.",
+      "Rotate items and allow guinea pigs to investigate at their own pace."
+    ],
+    "caution": "Remove damaged plastic or chew hazards."
+  },
+  {
+    "id": 32,
+    "title": "Floor time indoors",
+    "category": "Enrichment",
+    "frequency": "Daily",
+    "steps": [
+      "Set up a guinea-pig-proof exercise area with hides, hay and water.",
+      "Supervise and block cables, gaps and unsafe furniture access."
+    ],
+    "caution": "Never use exercise balls or running wheels for guinea pigs."
+  },
+  {
+    "id": 33,
+    "title": "Safe handling and lifting",
+    "category": "Handling",
+    "frequency": "As needed",
+    "steps": [
+      "Approach calmly, support the chest and hindquarters, and lift close to your body.",
+      "Sit low to the floor while holding a guinea pig to reduce injury risk."
+    ],
+    "caution": "Never lift by legs, ears or scruff."
+  },
+  {
+    "id": 34,
+    "title": "Helping shy guinea pigs trust you",
+    "category": "Behaviour",
+    "frequency": "Daily",
+    "steps": [
+      "Sit near the enclosure and speak quietly while offering safe food by hand.",
+      "Let the guinea pig choose to approach and keep sessions short."
+    ],
+    "caution": "Avoid chasing or grabbing frightened animals."
+  },
+  {
+    "id": 35,
+    "title": "Understanding wheeks and purrs",
+    "category": "Behaviour",
+    "frequency": "Daily",
+    "steps": [
+      "Observe vocalisations alongside posture and context, such as food anticipation or relaxation.",
+      "Learn each guinea pig's normal communication over time."
+    ],
+    "caution": "Teeth chattering and stiff postures can signal tension."
+  },
+  {
+    "id": 36,
+    "title": "Recognising social tension",
+    "category": "Social Needs",
+    "frequency": "Daily",
+    "steps": [
+      "Watch for persistent chasing, biting, blocked access to food or one animal hiding constantly.",
+      "Provide more space, hay stations and shelters with two exits."
+    ],
+    "caution": "Separate safely and seek experienced advice if injuries or serious fighting occur."
+  },
+  {
+    "id": 37,
+    "title": "Nail trimming basics",
+    "category": "Grooming",
+    "frequency": "Monthly",
+    "steps": [
+      "Inspect nail length regularly and use suitable small-animal clippers if confident.",
+      "Trim only the tip, avoiding the quick, or ask a vet nurse to demonstrate."
+    ],
+    "caution": "Dark nails can make the quick hard to see; do not cut blindly."
+  },
+  {
+    "id": 38,
+    "title": "Brushing long-haired guinea pigs",
+    "category": "Grooming",
+    "frequency": "Daily",
+    "steps": [
+      "Gently comb long hair to remove tangles and prevent soiling.",
+      "Check around the rear and underside for mats and trapped debris."
+    ],
+    "caution": "Do not pull painful mats; ask a professional or vet for help."
+  },
+  {
+    "id": 39,
+    "title": "Bathing only when necessary",
+    "category": "Grooming",
+    "frequency": "As needed",
+    "steps": [
+      "Use spot-cleaning where possible rather than routine full baths.",
+      "Ask a vet for advice if coat contamination or skin problems make bathing necessary."
+    ],
+    "caution": "Guinea pigs chill easily; never use human shampoo or leave them damp."
+  },
+  {
+    "id": 40,
+    "title": "Checking the rear end",
+    "category": "Grooming",
+    "frequency": "Daily",
+    "steps": [
+      "Look for dampness, faecal buildup, soiled fur or skin irritation around the rear.",
+      "Clean minor surface dirt gently and investigate repeated soiling."
+    ],
+    "caution": "Flystrike or maggots are an emergency requiring immediate veterinary care."
+  },
+  {
+    "id": 41,
+    "title": "Travelling to the vet",
+    "category": "Travel",
+    "frequency": "As needed",
+    "steps": [
+      "Use a secure ventilated carrier lined with absorbent bedding and hay.",
+      "Keep the carrier stable, shaded and away from temperature extremes."
+    ],
+    "caution": "Never leave guinea pigs in a parked car."
+  },
+  {
+    "id": 42,
+    "title": "Finding an experienced vet",
+    "category": "Health Awareness",
+    "frequency": "As needed",
+    "steps": [
+      "Locate a veterinary practice experienced with guinea pigs before an emergency.",
+      "Keep the phone number and out-of-hours details accessible."
+    ],
+    "caution": "Not all veterinary practices routinely treat small mammals."
+  },
+  {
+    "id": 43,
+    "title": "Quarantine and introductions",
+    "category": "Social Needs",
+    "frequency": "As needed",
+    "steps": [
+      "Discuss quarantine and health checks with a vet or rescue before mixing new guinea pigs.",
+      "Introduce compatible animals in a spacious neutral area under supervision."
+    ],
+    "caution": "Do not rush introductions or ignore aggressive behaviour."
+  },
+  {
+    "id": 44,
+    "title": "Caring for older guinea pigs",
+    "category": "Senior Care",
+    "frequency": "Daily",
+    "steps": [
+      "Make hay, food, water and hiding places easy to access without climbing.",
+      "Monitor weight, mobility, grooming and appetite more closely."
+    ],
+    "caution": "New stiffness, pain or weight changes need veterinary assessment."
+  },
+  {
+    "id": 45,
+    "title": "Young guinea pig care",
+    "category": "Young Guinea Pigs",
+    "frequency": "Daily",
+    "steps": [
+      "Provide a secure enclosure, suitable age-appropriate feeding and gentle handling.",
+      "Ask a vet or experienced rescue about growth, sexing and safe grouping."
+    ],
+    "caution": "Incorrect sexing can lead to unexpected pregnancies."
+  },
+  {
+    "id": 46,
+    "title": "Pregnancy prevention",
+    "category": "Social Needs",
+    "frequency": "As needed",
+    "steps": [
+      "Confirm the sex of every guinea pig and keep unneutered males and females apart.",
+      "Discuss neutering and safe pairings with an experienced vet or rescue."
+    ],
+    "caution": "Guinea pig pregnancy and birth can carry significant risks."
+  },
+  {
+    "id": 47,
+    "title": "Keeping a care record",
+    "category": "Organisation",
+    "frequency": "Weekly",
+    "steps": [
+      "Write down weights, diet changes, vet visits and medication instructions.",
+      "Update notes after health checks or unusual symptoms."
+    ],
+    "caution": "Records help a vet spot patterns but do not replace examination."
+  },
+  {
+    "id": 48,
+    "title": "Emergency appetite checklist",
+    "category": "Health Awareness",
+    "frequency": "Daily",
+    "steps": [
+      "If a guinea pig eats less, check hay intake, droppings, posture and activity immediately.",
+      "Contact an experienced vet urgently rather than waiting for the next day."
+    ],
+    "caution": "Do not force-feed an unwell guinea pig unless a vet directs you."
+  },
+  {
+    "id": 49,
+    "title": "Safe household plants",
+    "category": "Home Safety",
+    "frequency": "As needed",
+    "steps": [
+      "Keep houseplants and cut flowers out of reach of curious guinea pigs.",
+      "Verify any plants used near grazing or exercise areas are safe."
+    ],
+    "caution": "Many ornamental plants are toxic; seek veterinary advice after suspected ingestion."
+  },
+  {
+    "id": 50,
+    "title": "Children and guinea pigs",
+    "category": "Handling",
+    "frequency": "As needed",
+    "steps": [
+      "Teach children to speak softly and interact while sitting on the floor.",
+      "Have an adult supervise handling, feeding and enclosure access."
+    ],
+    "caution": "Guinea pigs can be injured by falls or rough handling."
+  }
+]
